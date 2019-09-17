@@ -1,0 +1,30 @@
+body {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    background-image: url(./bg.jpg)
+}
+#wrapper {
+    background-color: white;
+    padding: 20px;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+#reset {
+    margin: 0;
+    text-align: center;
+	background-color: red;
+	color: white;
+    padding: 10px;
+    border:none;
+}
+#start {
+    margin: 0;
+    text-align: center;
+	background-color: red;
+	color: white;
+    padding: 10px;
+    border:none;
+}
