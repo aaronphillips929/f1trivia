@@ -4,62 +4,62 @@ $(document).ready(function(){
 		question:"Who is the youngest driver on the 2019 grid?",
 		choices:["Lando Norris", "Charles Leclerc", "Max Verstappen", "George Russell"],
 		answer: "Lando Norris",
-	// },  {
-	// 	question:"How many WDC's has Lewis Hamilton won?",
-	// 	choices:["7", "5", "10", "3"],
-	// 	answer: "5",
-	// },  {
-	// 	question:"Which team claims to have exceeded the 1000hp barrier?",
-	// 	choices:["Renault F1 Team", "Scuderia Ferrari", "Mercedes AMG Petronas F1", "Red Bull Racing"],
-	// 	answer: "Renault F1 Team",
-	// },  {
-	// 	question:"Which driver replaced Pierre Gasly at Red Bull Racing mid-season 2019?",
-	// 	choices:["Jack Doohan", "Carlos Sainz", "Alex Albon", "Daniil Kvyat"],
-	// 	answer: "Alex Albon",
-	// },  {
-	// 	question:"Which circuit on the 2019 calendar is the newest addition to the calendar?",
-	// 	choices:["Baku City Circuit", "Circuit of the Americas", "Yas Marina Circuit", "Bahrain International Circuit"],
-	// 	answer: "Baku City Circuit",
-	// },  {
-	// 	question:"What's the name of McLaren's esports team?",
-	// 	choices: ["McLaren Driving Academy", "McLaren Honda Esports", "McLaren Shadow", "McLaren Team Vitality"],
-	// 	answer: "McLaren Shadow",
-	// },  {
-	// 	question:"Which manufacturer is the only tire manufacturer on the 2019 grid?",
-	// 	choices:["Bridgestone", "Michelin", "Hankook", "Pirelli"],
-	// 	answer: "Pirelli",
-	// },  {
-	// 	question:"What's the average age of drivers on the 2019 grid?",
-	// 	choices:["29 years and 2 months", "25 years and 11 months", "21 years and 6 months", "26 years and 3 months"],
-	// 	answer: "26 years and 3 months",
-	// },  {
-	// 	question:"Where is Kimi Raikkonen from?",
-	// 	choices:["Greenland", "Finland", "Iceland", "Poland"],
-	// 	answer: "Finland",
-	// },  {
-	// 	question:"Which F2 team did Charles Leclerc race with for the 2017 season?",
-	// 	choices:["MP Motorsport", "UNI-Virtuosi", "PREMA Racing", "BWT Arden"],
-	// 	answer: "PREMA Racing",
-	// },  {
-	// 	question:"Who is the Team Principal at HAAS Formula One Team",
-	// 	choices:["Guenther Steiner", "Gene Haas", "Toto Wolff", "Rob Taylor"],
-	// 	answer: "Guenther Steiner",
-	// },  {
-	// 	question:"Which power unit does ROKiT Williams Racing utilize",
-	// 	choices:["Ferrari", "Renault", "Mercedes", "Honda"],
-	// 	answer: "Mercedes",
-	// },  {
-	// 	question:"Which team has the longest car on the 2019 grid?",
-	// 	choices:["Mercedes AMG Petronas Motorsport", "Alfa Romeo Racing", "Scuderia Toro Rosso", "Red Bull Racing"],
-	// 	answer: "Mercedes AMG Petronas Motorsport",
-	// },  {
-	// 	question:"Which driver on the 2019 grid has driven the most races without reaching a podium?",
-	// 	choices:["Robert Kubica", "Nico Hulkenburg", "Romain Grosjean", "Kevin Magnusson"],
-	// 	answer: "Nico Hulkenburg",
-	// },  {
-	// 	question:"How many races are on the 2019 calendar?",
-	// 	choices:["21", "15", "23", "17"],
-	// 	answer: "21",
+	},  {
+		question:"How many WDC's has Lewis Hamilton won?",
+		choices:["7", "5", "10", "3"],
+		answer: "5",
+	},  {
+		question:"Which team claims to have exceeded the 1000hp barrier?",
+		choices:["Renault F1 Team", "Scuderia Ferrari", "Mercedes AMG Petronas F1", "Red Bull Racing"],
+		answer: "Renault F1 Team",
+	},  {
+		question:"Which driver replaced Pierre Gasly at Red Bull Racing mid-season 2019?",
+		choices:["Jack Doohan", "Carlos Sainz", "Alex Albon", "Daniil Kvyat"],
+		answer: "Alex Albon",
+	},  {
+		question:"Which circuit on the 2019 calendar is the newest addition to the calendar?",
+		choices:["Baku City Circuit", "Circuit of the Americas", "Yas Marina Circuit", "Bahrain International Circuit"],
+		answer: "Baku City Circuit",
+	},  {
+		question:"What's the name of McLaren's esports team?",
+		choices: ["McLaren Driving Academy", "McLaren Honda Esports", "McLaren Shadow", "McLaren Team Vitality"],
+		answer: "McLaren Shadow",
+	},  {
+		question:"Which manufacturer is the only tire manufacturer on the 2019 grid?",
+		choices:["Bridgestone", "Michelin", "Hankook", "Pirelli"],
+		answer: "Pirelli",
+	},  {
+		question:"What's the average age of drivers on the 2019 grid?",
+		choices:["29 years and 2 months", "25 years and 11 months", "21 years and 6 months", "26 years and 3 months"],
+		answer: "26 years and 3 months",
+	},  {
+		question:"Where is Kimi Raikkonen from?",
+		choices:["Greenland", "Finland", "Iceland", "Poland"],
+		answer: "Finland",
+	},  {
+		question:"Which F2 team did Charles Leclerc race with for the 2017 season?",
+		choices:["MP Motorsport", "UNI-Virtuosi", "PREMA Racing", "BWT Arden"],
+		answer: "PREMA Racing",
+	},  {
+		question:"Who is the Team Principal at HAAS Formula One Team",
+		choices:["Guenther Steiner", "Gene Haas", "Toto Wolff", "Rob Taylor"],
+		answer: "Guenther Steiner",
+	},  {
+		question:"Which power unit does ROKiT Williams Racing utilize",
+		choices:["Ferrari", "Renault", "Mercedes", "Honda"],
+		answer: "Mercedes",
+	},  {
+		question:"Which team has the longest car on the 2019 grid?",
+		choices:["Mercedes AMG Petronas Motorsport", "Alfa Romeo Racing", "Scuderia Toro Rosso", "Red Bull Racing"],
+		answer: "Mercedes AMG Petronas Motorsport",
+	},  {
+		question:"Which driver on the 2019 grid has driven the most races without reaching a podium?",
+		choices:["Robert Kubica", "Nico Hulkenburg", "Romain Grosjean", "Kevin Magnusson"],
+		answer: "Nico Hulkenburg",
+	},  {
+		question:"How many races are on the 2019 calendar?",
+		choices:["21", "15", "23", "17"],
+		answer: "21",
 	}];
 
 	/* DOM */
