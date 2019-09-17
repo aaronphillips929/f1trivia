@@ -229,7 +229,7 @@ $(document).ready(function(){
 		result : function(){
 			// console.log(game.correctAnswerCounter + " " + game.wrongAnswerCounter);
 			clearTimeout(game.setTimeoutFlag);
-			game.generateHTML('', '', 'Result:', 'Right Answers : ' 
+			game.generateHTML('', '', '"You reached the checkered flag!"', 'Right Answers : ' 
 				+ game.correctAnswerCounter + " " 
 				+ 'Wrong Answers: ' + game.wrongAnswerCounter + " "
 				+ " " + 'Unanswered: ' + game.unanswerCounter);
