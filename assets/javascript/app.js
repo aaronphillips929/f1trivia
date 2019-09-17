@@ -65,7 +65,7 @@ $(document).ready(function(){
 	/* DOM */
 	var section = $("<section id='main'>");
 	var row = $("<div class='row'>");
-	var col = $("<div class='col-md-6 col-md-offset-3'>");
+	var col = $("<div class='col-md-8 col-md-offset-2'>");
 	var well = $("<div class='well'>");
 	var h3 = $("<h3 class='text-center'>");
 	var h4 = $("<h4 class='text-center'>");
