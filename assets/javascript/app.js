@@ -171,7 +171,7 @@ $(document).ready(function(){
 			// console.log("timeUp");
 			clearInterval(game.setIntervalFlag);
 			game.unanswerCounter++;
-			game.generateHTML('', '', 'Too slow!', 'The correct Answer is: ' + game.gameQuestions[game.currentQuestion].answer);
+			game.generateHTML('', '', 'Too slow!', 'The correct Answer is ' + game.gameQuestions[game.currentQuestion].answer);
 			game.currentStatus();
 		},
 
