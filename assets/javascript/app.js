@@ -191,7 +191,7 @@ $(document).ready(function(){
 		incorrectAnswer : function(){
 			// console.log("incorrectAnswer");
 			game.wrongAnswerCounter++;
-			game.generateHTML('', '', 'Incorrect', 'The correct answer is: ' + game.gameQuestions[game.currentQuestion].answer);
+			game.generateHTML('', '', 'Incorrect', 'The correct answer is ' + game.gameQuestions[game.currentQuestion].answer);
 			game.currentStatus();
 		},
 
