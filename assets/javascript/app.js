@@ -41,11 +41,11 @@ $(document).ready(function(){
 		choices:["MP Motorsport", "UNI-Virtuosi", "PREMA Racing", "BWT Arden"],
 		answer: "PREMA Racing",
 	},  {
-		question:"Who is the Team Principal at HAAS Formula One Team",
+		question:"Who is the Team Principal at HAAS Formula One Team?",
 		choices:["Guenther Steiner", "Gene Haas", "Toto Wolff", "Rob Taylor"],
 		answer: "Guenther Steiner",
 	},  {
-		question:"Which power unit does ROKiT Williams Racing utilize",
+		question:"Which power unit does ROKiT Williams Racing utilize?",
 		choices:["Ferrari", "Renault", "Mercedes", "Honda"],
 		answer: "Mercedes",
 	},  {
